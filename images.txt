@@ -1,6 +1,6 @@
 postgres
 joplin/server
-bitwardens/server
+vaultwarden/server
 chenhw2/aliyun-ddns-cli
 linuxserver/letsencrypt
 
